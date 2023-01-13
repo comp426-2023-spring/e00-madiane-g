@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=contended sheep metro couscous deface
+EXAMCODE=515781990
 
 echo ${EXAMCODE}
